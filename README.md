@@ -6,6 +6,6 @@
   
 - 🔭 I’m currently working on an online store project by django 
 - 🌱 I’m interested in learning new things
-- 👯 I’m looking to collaborate on python/django
+- 👯 I’m looking to participate on python/django projects
 - ⚡ Fun fact: learning is endless way.
 
