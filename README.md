@@ -1,5 +1,5 @@
 <h2>Hi 👋 I'm Mahdi! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
-<img align='right' src="/python.gif" width="320"/>
+<img align='right' src="/python.gif" width="370"/>
 <p><em>i'm a backend python/django developer</em>
   
   
