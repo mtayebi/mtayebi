@@ -1,5 +1,5 @@
 <h2>Hi 👋 I'm Mahdi! 
-<img align='right' src="/backend.gif" width="400"/>
+<img align='right' src="/backend.gif" width="380"/>
 <p><em>i'm a backend developer</em>
   
   
